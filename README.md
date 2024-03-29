@@ -52,6 +52,16 @@
 
 Выведите Email каждого покупателя, разделив значение Email на две отдельных колонки: в первой колонке должно быть значение, указанное до @, во второй — значение, указанное после @.
 
+### Решение 5
+![image](https://github.com/sharvik22/12-03.md/blob/main/images/5.png)
+![image](https://github.com/sharvik22/12-03.md/blob/main/images/5-1.png)
+
+---
+
 ### Задание 6*
 
 Доработайте запрос из предыдущего задания, скорректируйте значения в новых колонках: первая буква должна быть заглавной, остальные — строчными.
+
+### Решение 6
+![image](https://github.com/sharvik22/12-03.md/blob/main/images/6.png)
+![image](https://github.com/sharvik22/12-03.md/blob/main/images/6-1.png)
