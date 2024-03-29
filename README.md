@@ -18,7 +18,7 @@
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года **включительно** и стоимость которых превышает 10.00.
 
 ### Решение 2
-![image]https://github.com/sharvik22/12-03.md/blob/main/images/2.png
+![image](https://github.com/sharvik22/12-03.md/blob/main/images/2.png)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### Решение 3
 
-![image]https://github.com/sharvik22/12-03.md/blob/main/images/3.png
+![image]https://github.com/sharvik22/12-03.md/blob/main/images/3.png)
 
 ---
 
@@ -41,7 +41,7 @@
 - замените буквы 'll' в именах на 'pp'.
 
 ### Решение 4
-![image]https://github.com/sharvik22/12-03.md/blob/main/images/4.png
+![image]https://github.com/sharvik22/12-03.md/blob/main/images/4.png)
 
 ---
 
