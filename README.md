@@ -9,7 +9,7 @@
 
 ### Решение 1
 
-![image](https://github.com/sharvik22/12-03.md/assets/136818757/6cbf9b96-ebc5-493f-a2d8-c0d54977c79b)
+![image](https://github.com/sharvik22/12-03.md/blob/main/images/1.png)
 
 ---
 
